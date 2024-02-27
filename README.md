@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Alekseev</h1>
 <h3 align="center">An enthusiast from Ukraine that became passionate with programming after 9-th grade of school after writing science work in programming (porting Mario to Scratch and connecting then Kinect 360 with the sprite). Now I'm studying Software Engineering with passion, prefering back-end development mostly</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanalekseev04&label=Profile%20views&color=0e75b6&style=flat" alt="ivanalekseev04" /> </p>
-
 - 📫 How to reach me **vanyaalekseev94@gmail.com**
 
 - ✨ My hobbies: **reading psychological books, gym, perfumes**
