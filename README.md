@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Alekseev</h1>
-<h3 align="center">An enthusiast from Ukraine that became passionate with programming after 9-th grade of school after writing science work in programming (porting Mario to Scratch and connecting then Kinect 360 with the sprite). Now I'm studying Software Engineering with passion, prefering back-end development mostly</h3>
+<h3 align="center">An enthusiast from Ukraine that became passionate with programming after 9-th grade of school. Now I'm studying Software Engineering with passion, prefering back-end development and design</h3>
 
 - 📫 How to reach me **vanyaalekseev94@gmail.com**
 
@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanalekseev04&show_icons=true&locale=en&layout=compact" alt="ivanalekseev04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanalekseev04&show_icons=true&locale=en" alt="ivanalekseev04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanalekseev04&" alt="ivanalekseev04" /></p>
