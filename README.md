@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Alekseev</h1>
 <h3 align="center">My programming path started in the 9th grade of school. Now I'm studying Software Engineering at Sofia University, Faculty of Mathematics and Informatics, preferring back-end development</h3>
 
-- 📫 How to reach me: **vanyaalekseev94@gmail.com**
+- 📫 How to reach me: **ivan.alieksieiev1@gmail.com**
 
 - ✨ My hobbies: **psychological books, gym, perfumes**
 
