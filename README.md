@@ -15,6 +15,8 @@
 ###
 
 <div align="left">
+  <img width="12" />
+  <img src="./img/quarkus_icon.svg" height="40" alt="docker logo"  />
   <img src="./img/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="./img/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
@@ -26,6 +28,8 @@
   <img src="./img/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="./img/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="./img/flyway_icon.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
