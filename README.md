@@ -2,9 +2,9 @@
 
 ###
 
-📚 I'm currently learning: `SpringBoot` & `Hibernate` **specifics**
+📚 I'm currently learning: `AI` API's, `AI` integration with the application
 
-🧑‍💻Topics interested in: DB optimizations, regular expressions for the text parsing/processing
+🧑‍💻Topics interested in: DB optimizations, text parsing/processing
 
 🎯 Goals: avoid replacing initial intelligence with artificial one
 
